@@ -20,7 +20,7 @@ Metodo rapido B):
 
 Questo metodo funziona per una volta ma la permanenza dell'add-in al riavvio di Excel è dipendente dalle impostazioni e dal sistema operativo utilizzato.
 
-Potete provare la fortuna...altrimenti è necessario utilizzare il metodo A) per averlo sempre a disposizione.
+Potete provare la fortuna...altrimenti è necessario utilizzare il metodo A) per averlo l'add-in sempre a disposizione su excel.
 
 
 Fare riferimento alla Guida e ai relativi esempi per le funzionalità
