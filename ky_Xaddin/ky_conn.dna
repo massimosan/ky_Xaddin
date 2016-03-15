@@ -1,0 +1,9 @@
+﻿<DnaLibrary Language="VB" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="ky_conn.dll" ComServer="true" />
+  <ExternalLibrary Path="ExcelApi.dll" />
+  <ExternalLibrary Path="NetOffice.dll" />
+  <ExternalLibrary Path="OfficeApi.dll" />
+  <ExternalLibrary Path="VBIDEApi.dll" />
+  
+  
+</DnaLibrary> 
